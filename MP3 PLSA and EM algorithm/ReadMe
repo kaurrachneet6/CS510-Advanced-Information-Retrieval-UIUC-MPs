@@ -1,1 +1,1 @@
-
+This directory includes implementation of the EM algorithm for the PLSA with the background topic model using smoothing technique.
