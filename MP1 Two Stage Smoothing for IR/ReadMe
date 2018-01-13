@@ -1,1 +1,5 @@
+This directory contains an implementation of two-stage smoothing method for a language model-based ranker using the two classical language
+model-based ranking methods namely Dirichlet prior and Jelinek-Mercer algorithm.
 
+Next, it involves a discussion of the parameter sensitivity of the same for different query types on using the standard 
+Cranfield evaluation technique by using the MeTA toolkit’s Python bindings. 
