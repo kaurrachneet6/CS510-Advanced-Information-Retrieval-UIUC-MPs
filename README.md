@@ -1,5 +1,5 @@
 # CS510-MPs
-CS510 Advanced Information Retrieval Machine Problems
+CS510 Advanced Information Retrieval (UIUC) Machine Problems
 
 **Problem 1:**
 
