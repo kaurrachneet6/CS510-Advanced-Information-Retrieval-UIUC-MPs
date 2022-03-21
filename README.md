@@ -17,6 +17,6 @@ Implementat the EM algorithm for the PLSA with the background topic model using 
 
 Implementat various Hidden Markov Model heuristics namely:
 1. Forward algorithm
-2. Bcakward algorithm
+2. Backward algorithm
 3. Viterbi algorithm
 4. Viterbi algorithm with smoothing 
