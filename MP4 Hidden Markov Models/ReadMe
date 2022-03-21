@@ -2,7 +2,7 @@ This directory includes implementation of various Hidden Markov Model heuristics
 
 1. Forward algorithm
 
-2. Bcakward algorithm
+2. Backward algorithm
 
 3. Viterbi algorithm
 
